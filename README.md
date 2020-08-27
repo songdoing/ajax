@@ -2,7 +2,7 @@
 javaScript AJAX - fetch API (WAMP stack)
 
 ## General info
-This application is a simle project using fetch API.
+This application is a simple project using fetch API.
 
 ## Technologies
 Project is created with : 
